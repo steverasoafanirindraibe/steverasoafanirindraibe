@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2bbc8a&center=true&vCenter=true&width=435&lines=Concepteur+de+Solutions+Digitales;Expert+Full-Stack+React+/+Laravel;Data+Scientist+en+Devenir;Stratège+aux+Échecs" alt="Typing SVG" />
+<div align="center" style="bac">
+  <img src="./images/capture02.png" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://steverasoafanirindraibe.vercel.app/">Portfolio</a> •
@@ -10,12 +10,12 @@
 
 ---
 
-## 🍱 Bento Grid : Ma Stack & Vision
+## Ma Stack & Vision
 
 <table width="100%">
   <tr>
     <td width="60%" rowspan="2">
-      <h3>🚀 À propos de moi</h3>
+      <h3>[À propos de moi]</h3>
       <p>Étudiant à l'<b>EMIT Fianarantsoa</b>, je transforme des problématiques métier complexes en architectures logicielles robustes. Ma méthode repose sur la rigueur de <b>UML</b> et <b>MERISE</b> combinée à l'agilité des frameworks modernes.</p>
       <ul>
         <li>🔭 <b>Focus Actuel :</b> EMIT Business Hub (EBH) avec Next.js & Drizzle-ORM.</li>
@@ -24,7 +24,7 @@
       </ul>
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steverasoafanirindraibe&layout=compact&theme=radical&hide=css" width="100%" />
+      <img src="./images/c" width="100%" />
     </td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Maîtrise Technique (Structural Stack)
+## Maîtrise Technique (Structural Stack)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel,spring,java,php,typescript,postgres,mysql,docker,git,py&perline=8" />
@@ -44,31 +44,26 @@
 
 ---
 
-## 📈 Roadmap : Pivot vers la Data Science
+## Roadmap : Pivot vers la Data Science
 
 | Étape | Domaine | Technologies | Statut |
 | :--- | :--- | :--- | :--- |
 | 01 | Fondamentaux | Python, Algorithmique, MERISE | ✅ Complété |
 | 02 | Analyse | Pandas, NumPy, Scikit-learn | ⏳ En cours |
 | 03 | Intelligence | Huawei AI Certification | ✅ Certifié |
-| 04 | Big Data | Spark, ML Ops, PostgreSQL | 🎯 Cible 2026 |
+| 04 | Big Data | Spark, ML Ops, PostgreSQL | 🔘 Cible 2026 |
 
 ---
 
-## ♟️ Interactivité : Jouons aux Échecs!
-*Cliquez sur un mouvement pour jouer (via GitHub Issues).*
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/default_board.png" width="400px" />
+## ♟️ Sinon, Jouons aux Échecs!
+<div>
+  *Cliquez sur https://chess.com/ pour jouer
 </div>
 
----
 
-## 🏋️ Discipline & Performance (Musculation)
-*Le code et le bodybuilding partagent la même rigueur : répétition et optimisation.*
-
-- **Routine :** 5 sessions / semaine (Focus Hypertrophie).
-- **Parallèle :** `while(training) { muscles++; discipline++; }`
+<div align="center">
+  <img src="./images/chessImage.png" width="100px" />
+</div>
 
 ---
 
