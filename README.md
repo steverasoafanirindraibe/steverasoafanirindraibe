@@ -8,15 +8,10 @@
   </p>
 </div>
 
----
-
-## Ma Stack & Vision
-
 <table width="100%">
   <tr>
     <td width="60%" rowspan="2">
-      <h3>[À propos de moi]</h3>
-      <p>Étudiant à l'<b>EMIT Fianarantsoa</b>, je transforme des problématiques métier complexes en architectures logicielles robustes. Ma méthode repose sur la rigueur de <b>UML</b> et <b>MERISE</b> combinée à l'agilité des frameworks modernes.</p>
+      <p>Ma méthode repose sur la rigueur de <b>UML</b> et <b>MERISE</b> combinée à l'agilité des frameworks modernes.</p>
       <ul>
         <li>🔭 <b>Focus Actuel :</b> EMIT Business Hub (EBH) avec Next.js & Drizzle-ORM.</li>
         <li>🌱 <b>En Transition :</b> Spécialisation en Sciences des Données (Certifié Huawei AI).</li>
