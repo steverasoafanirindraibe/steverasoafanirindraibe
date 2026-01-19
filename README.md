@@ -1,5 +1,5 @@
 <div align="center" style="bac">
-  <img src="./images/capture02.png" alt="Typing SVG" />
+  <img src="./images/image-045.png" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://steverasoafanirindraibe.vercel.app/">Portfolio</a> •
@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td width="40%">
-      <img src="./images/c" width="100%" />
+      <!-- <img src="./images/c" width="100%" /> -->
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steverasoafanirindraibe&show_icons=true&theme=tokyonight" alt="Steve's Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=steverasoafanirindraibe&show_icons=true&theme=tokyonight" alt="Steve's Stats" /> -->
   <br/>
   <img src="https://komarev.com/ghpvc/?username=steverasoafanirindraibe&color=2bbc8a&style=flat-square&label=VISITEURS" alt="Visitors" />
 </div>
