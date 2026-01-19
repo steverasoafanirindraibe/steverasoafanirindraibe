@@ -1,5 +1,5 @@
 <div align="center" style="bac">
-  <img src="./images/image-045.png" alt="Typing SVG" />
+  <img src="./images/capture08.png" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://steverasoafanirindraibe.vercel.app/">Portfolio</a> •
@@ -18,9 +18,9 @@
         <li>⚡ <b>Philosophie :</b> "La structure précède la performance."</li>
       </ul>
     </td>
-    <td width="40%">
-      <!-- <img src="./images/c" width="100%" /> -->
-    </td>
+    <!-- <td width="40%">
+      <img src="./images/c" width="100%" />
+    </td> -->
   </tr>
   <tr>
     <td>
@@ -39,7 +39,7 @@
 
 ---
 
-## Roadmap : Pivot vers la Data Science
+<!-- ## Roadmap : Pivot vers la Data Science
 
 | Étape | Domaine | Technologies | Statut |
 | :--- | :--- | :--- | :--- |
@@ -48,7 +48,7 @@
 | 03 | Intelligence | Huawei AI Certification | ✅ Certifié |
 | 04 | Big Data | Spark, ML Ops, PostgreSQL | 🔘 Cible 2026 |
 
----
+--- -->
 
 ## ♟️ Sinon, Jouons aux Échecs!
 <div>
