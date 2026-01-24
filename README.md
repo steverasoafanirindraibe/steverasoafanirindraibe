@@ -18,6 +18,7 @@
         <li>⚡ <b>Philosophie :</b> "La structure précède la performance."</li>
       </ul>
     </td>
+    <!--Steve-->
     <!-- <td width="40%">
       <img src="./images/c" width="100%" />
     </td> -->
