@@ -3,7 +3,7 @@
   
   <p align="center">
     <a href="https://steverasoafanirindraibe.vercel.app/">Portfolio</a> •
-    <a href="https://www.linkedin.com/in/steve-rasoafanirindraibe">LinkedIn</a> •
+    <a href="www.linkedin.com/in/steve-rasoafanirindraibe-b8baa33a7">LinkedIn</a> •
     <a href="mailto:steveshannyrasoafanirindraibe@gmail.com">Contact Email</a>
   </p>
 </div>
