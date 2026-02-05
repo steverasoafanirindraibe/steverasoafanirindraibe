@@ -13,7 +13,7 @@
     <td width="60%" rowspan="2">
       <p>Ma méthode repose sur la rigueur de <b>UML</b> et <b>MERISE</b> combinée à l'agilité des frameworks modernes.</p>
       <ul>
-        <li>🔭 <b>Focus Actuel :</b> EMIT Business Hub (EBH) avec Next.js & Drizzle-ORM.</li>
+        <li>🔭 <b>Focus Actuel :</b> EMIT Business Hub (EBH) avec Next.js & Drizzle-ORM Et Portal Digit M avec Nest.js & Prisma-ORM</li>
         <li>🌱 <b>En Transition :</b> Spécialisation en Sciences des Données (Certifié Huawei AI).</li>
         <li>⚡ <b>Philosophie :</b> "La structure précède la performance."</li>
       </ul>
