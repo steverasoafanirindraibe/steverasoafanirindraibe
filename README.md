@@ -41,7 +41,7 @@
 ---
 
 <!-- ## Roadmap : Pivot vers la Data Science
-
+Rest e reste reste
 | Étape | Domaine | Technologies | Statut |
 | :--- | :--- | :--- | :--- |
 | 01 | Fondamentaux | Python, Algorithmique, MERISE | ✅ Complété |
