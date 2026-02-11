@@ -31,10 +31,10 @@
 ## Maîtrise Technique (Structural Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel,spring,java,php,typescript,postgres,mysql,docker,git,py&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,nodejs,express,laravel,spring,java,php,typescript,postgres,mysql,docker,git,py&perline=8" />
 </div>
 
---- -->
+---
 
 ## ♟️ Sinon, Jouons aux Échecs!
 <div>
