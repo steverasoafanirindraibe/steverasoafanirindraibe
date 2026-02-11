@@ -18,10 +18,6 @@
         <li>⚡ <b>Philosophie :</b> "La structure précède la performance."</li>
       </ul>
     </td>
-    <!--Steve-->
-    <!-- <td width="40%">
-      <img src="./images/c" width="100%" />
-    </td> -->
   </tr>
   <tr>
     <td>
@@ -37,17 +33,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel,spring,java,php,typescript,postgres,mysql,docker,git,py&perline=8" />
 </div>
-
----
-
-<!-- ## Roadmap : Pivot vers la Data Science
-Rest e reste reste
-| Étape | Domaine | Technologies | Statut |
-| :--- | :--- | :--- | :--- |
-| 01 | Fondamentaux | Python, Algorithmique, MERISE | ✅ Complété |
-| 02 | Analyse | Pandas, NumPy, Scikit-learn | ⏳ En cours |
-| 03 | Intelligence | Huawei AI Certification | ✅ Certifié |
-| 04 | Big Data | Spark, ML Ops, PostgreSQL | 🔘 Cible 2026 |
 
 --- -->
 
