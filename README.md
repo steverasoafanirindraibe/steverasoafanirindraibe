@@ -31,7 +31,7 @@
 ## Maîtrise Technique (Structural Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,nodejs,express,spring,swagger,minio,javascript,typescript,postgres,mysql,docker,git,py&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,nodejs,express,spring,swagger,minio,javascript,typescript,postgres,mysql,docker,git" />
 </div>
 
 ---
