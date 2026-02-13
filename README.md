@@ -36,6 +36,15 @@
 
 ---
 
+### ♟️ Sinon, Jouons aux Échecs!
+
+
+<div align="center">
+  <img src="./images/chessImage.png" width="100px" />
+</div>
+
+---
+
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=steverasoafanirindraibe&show_icons=true&theme=tokyonight" alt="Steve's Stats" /> -->
   <br/>
