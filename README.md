@@ -28,19 +28,10 @@
 
 ---
 
-## Maîtrise Technique
+## Maîtrise Technique |||||||||||||||||||||||||||||||||||
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,nodejs,express,spring,swagger,minio,javascript,typescript,postgres,mysql,docker,git&perline=8" />
-</div>
-
----
-
-### ♟️ Sinon, Jouons aux Échecs!
-
-
-<div align="center">
-  <img src="./images/chessImage.png" width="100px" />
 </div>
 
 ---
