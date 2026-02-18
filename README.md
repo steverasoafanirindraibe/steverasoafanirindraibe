@@ -30,9 +30,15 @@
 ## Maîtrise Technique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,nodejs,express,spring,swagger,minio,javascript,typescript,postgres,mysql,trello,docker,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,nodejs,express,spring,javascript,typescript,postgres,mysql,docker,git&perline=8" />
 </div>
+<br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/minio/minio/master/docs/logo.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/>
+</div>
 ---
 
 <div align="center">
