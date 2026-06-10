@@ -29,7 +29,7 @@
 ## Maîtrise Technique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,nodejs,express,spring,javascript,typescript,postgres,mysql,docker,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,express,spring,javascript,typescript,postgres,mysql,docker,git&perline=6" />
   <div align="center" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="42"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="42"/>
