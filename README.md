@@ -17,11 +17,11 @@
       </ul>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=steverasoafanirindraibe&theme=tokyonight&hide_border=true" width="100%" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
