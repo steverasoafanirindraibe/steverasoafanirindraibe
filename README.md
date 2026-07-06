@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,express,spring,javascript,typescript,postgres,mysql,docker,git&perline=12" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,tailwind,express,spring,postgres,mysql,docker,git&perline=12" />
 </div>
-
 <br/>
 <div align="center">
   -<a href="https://steverasoafanirindraibe.vercel.app/">
