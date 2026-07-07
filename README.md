@@ -1,12 +1,11 @@
-<img src='images/line-neon2.gif'>
 
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,tailwind,express,spring,postgres,mysql,docker,git&perline=12" />
 </div>
-
-<img src='images/line-neon.gif'>
-<br/>
+<div align="center">
+  <img src='images/line-neon.gif'>
+</div>
 <div align="center">
   -<a href="https://steverasoafanirindraibe.vercel.app/">
     Portfolio
