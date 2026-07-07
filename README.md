@@ -11,7 +11,7 @@
   -<a href="https://steverasoafanirindraibe.vercel.app/">
     Portfolio
   </a> ●
-  <a href="www.linkedin.com/in/steve-rasoafanirindraibe-b8baa33a7">
+  <a href="https://linkedin.com/in/steve-rasoafanirindraibe-b8baa33a7">
     LinkedIn
   </a>●
   <a href="mailto:steveshannyrasoafanirindraibe@gmail.com">
