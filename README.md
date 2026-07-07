@@ -1,3 +1,4 @@
+<img src="https://tenor.com/fr/view/line-neon-gif-9152221043508787547">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,tailwind,express,spring,postgres,mysql,docker,git&perline=12" />
 </div>
