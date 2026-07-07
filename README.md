@@ -6,6 +6,7 @@
 <div align="center">
   <img src='images/line-neon.gif' width="600px" >
 </div>
+<br/>
 <div align="center" style="margin-top:'100px'" >
   -<a href="https://steverasoafanirindraibe.vercel.app/">
     Portfolio
