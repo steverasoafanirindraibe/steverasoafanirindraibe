@@ -4,7 +4,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,tailwind,express,spring,postgres,mysql,docker,git&perline=12" />
 </div>
 <div align="center">
-  <img src='images/line-neon.gif'>
+  <img src='images/line-neon.gif' width="600px" >
 </div>
 <div align="center">
   -<a href="https://steverasoafanirindraibe.vercel.app/">
