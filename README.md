@@ -1,6 +1,6 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,100:030712&height=220&section=header&text=Steve%20Shanny&fontSize=50&fontColor=fff&animation=twinkling)
-<h2 align="center">Languages and Tools:</h2>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,100:030712&height=130&section=header&text=Steve%20Shanny&fontSize=70&fontColor=fff&animation=twinkling)
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,tailwind,express,spring,postgres,mysql,docker,git&perline=12" />
 </div>
@@ -18,6 +18,6 @@
   <a href="mailto:steveshannyrasoafanirindraibe@gmail.com">
     Email
   </a> -
-</div>
-<br/>
+</div> 
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:030712,100:042f2e&height=100&section=footer)
