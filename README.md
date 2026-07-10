@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,100:030712&height=130&section=header&text=Steve%20Shanny&fontSize=70&fontColor=fff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,100:030712&height=130&section=header&text=Steve%20Shanny&fontSize=70&fontColor=fff&desc=Full%20Stack%20Developer&descSize=34&descAlignY=90&descColor=14b8a6&animation=twinkling)
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,tailwind,express,spring,postgres,mysql,docker,git&perline=12" />
