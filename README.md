@@ -9,10 +9,10 @@
 </div>
 <br/>
 <div align="center" style="margin-top:'100px'" >
-  -<a href="https://steverasoafanirindraibe.vercel.app/">
+  -<a href="https://steveshanny.vercel.app/">
     Portfolio
   </a> ●
-  <a href="https://linkedin.com/in/steve-rasoafanirindraibe-b8baa33a7">
+  <a href="https://linkedin.com/in/steve-shanny">
     LinkedIn
   </a>●
   <a href="mailto:steveshannyrasoafanirindraibe@gmail.com">
