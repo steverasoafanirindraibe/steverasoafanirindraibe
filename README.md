@@ -1,5 +1,6 @@
 
 <br/>
+<h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,tailwind,express,spring,postgres,mysql,docker,git&perline=12" />
 </div>
