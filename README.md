@@ -7,11 +7,12 @@
 <div align="center">
   <img src='images/line-neon.gif' width="500px">
 </div>
-<div align="center">
+<br/>
+<div align="center" style="margin-top:'100px'" >
   -<a href="https://steverasoafanirindraibe.vercel.app/">
     Portfolio
   </a> ●
-  <a href="www.linkedin.com/in/steve-rasoafanirindraibe-b8baa33a7">
+  <a href="https://linkedin.com/in/steve-rasoafanirindraibe-b8baa33a7">
     LinkedIn
   </a>●
   <a href="mailto:steveshannyrasoafanirindraibe@gmail.com">
