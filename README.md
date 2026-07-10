@@ -1,10 +1,11 @@
 
-<br/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,100:030712&height=220&section=header&text=Steve%20Shanny&fontSize=50&fontColor=fff&animation=twinkling)
+<h2 align="center">Languages and Tools:</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nestjs,tailwind,express,spring,postgres,mysql,docker,git&perline=12" />
 </div>
 <div align="center">
-  <img src='images/line-neon.gif'>
+  <img src='images/line-neon.gif' width="500px">
 </div>
 <div align="center">
   -<a href="https://steverasoafanirindraibe.vercel.app/">
@@ -17,4 +18,5 @@
     Email
   </a> -
 </div>
+<br/>
 
